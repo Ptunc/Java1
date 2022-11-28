@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class notOrt {
+public class java1 {
     public static void main(String[] args) {
         int fv, ff, mv, mf, kv, kf, tv, tf, tav, taf, muv, muf;
         float fo, mo, ko, to, tao, muo;
@@ -54,6 +54,6 @@ public class notOrt {
         
         String str = top >= 60 ? "geçti" : "kaldı";
         System.out.println(str);
-
+        input.close();
     }
 }
